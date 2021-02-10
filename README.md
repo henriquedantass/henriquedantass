@@ -6,7 +6,7 @@
 ### About me
 I'm a {frontend developer}
 
-### Skills 
+### Hard Skills 
 HTML5, JavaScript, CSS, React
 
 
