@@ -6,5 +6,8 @@
 ### Learning about
 HTML5, JavaScript, CSS, React.
 
+## Studyng 
+
+Computer Science
 
 - [Website](https://fagnerpsantos.dev/) 💻 - Working on it.
