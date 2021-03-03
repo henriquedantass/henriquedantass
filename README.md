@@ -11,11 +11,3 @@
 
 ---
 
-<br>
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=henriquedantass&show_icons=tru&theme=dracula" alt="Status" />
-
-<br>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedantass&layout=compact&show_icons=true&theme=dracula" alt="Langs" />
