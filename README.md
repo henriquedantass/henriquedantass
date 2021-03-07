@@ -2,7 +2,7 @@
 
 **Desenvolvedor Júnior**
 
-- 📚 Currently learning: **_React, Next.js, Laravel_**
+- 📚 Currently learning: **_React, Next.js, JavaScript_**
 
 ### How to reach me:
 
