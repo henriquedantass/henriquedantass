@@ -1,7 +1,6 @@
 # Henrique Dantas 
 
 **Junior Developer ReactJS**
-- 💻 Working on : https://www.sapienstec.com/ 
 - 📚 Currently learning: **_React, Next.js, JavaScript_**
 
 ### How to reach me:
