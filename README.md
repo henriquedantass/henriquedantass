@@ -1,7 +1,7 @@
 # Henrique Dantas 
 
-**Junior Developer ReactJS**
-- 📚 Currently learning: **_React, Next.js, JavaScript_**
+**Junior Developer Front-End*
+- 📚 Currently learning: **_React, Next.js, Nodejs, JavaScript_**
 
 ### How to reach me:
 
