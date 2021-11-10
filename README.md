@@ -1,5 +1,5 @@
 ## Olá, eu sou o Henrique!
-
+[![Portfolio Badge](https://img.shields.io/badge/Website-vinniciusgomes.dev-black)](https://henriquedantass.vercel.app/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-henrique-261631200/)](https://www.linkedin.com/in/paulo-henrique-261631200/) 
 
 Trabalho como desenvolvedor front-end com 1 ano de experiência no mercado de trabalho, até o momento tendo passado por duas empresas. No entanto, o meu maior tempo de experiência foi atuando como freelancer para pequenas empresas da minha cidade e em regiões vizinhas. Durante esse periodo, eu tenho desenvolvido aplicações utilizando ReactJS e NextJS como também utilizando do javascript, html e css puro para landing pages mais simples. 
