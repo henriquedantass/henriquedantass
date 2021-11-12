@@ -2,7 +2,7 @@
 [![Portfolio Badge](https://img.shields.io/badge/Website-henriquedantassblack)](https://henriquedantass.vercel.app/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-henrique-261631200/)](https://www.linkedin.com/in/paulo-henrique-261631200/) 
 
-Trabalho como desenvolvedor front-end com 1 ano de experiência no mercado de trabalho, até o momento tendo passado por duas empresas. No entanto, o meu maior tempo de experiência foi atuando como freelancer para pequenas empresas da minha cidade e em regiões vizinhas. Durante esse periodo, eu tenho desenvolvido aplicações utilizando ReactJS e NextJS como também utilizando do javascript, html e css puro para landing pages mais simples. 
+Sou apaixonado por games e tecnologia. Tenho 21 anos e estudo Ciências da Computação na UEPB. Iniciei meus estudos no desenvolvimento web em 2020 e durante esse tempo comecei a desenvolver minhas primeiras aplicações como freelancer. Atualmente estou trabalhando como front-end developer júnior na Yazo no desenvolvimento de uma plataforma para eventos online. No entanto, a maior parte de minha experiência foi atuando como freelancer. Um dos meus objetivos principais é contribuir com tecnologia para um mundo melhor. 
 
 **Languages and Tools 🚀**
 
