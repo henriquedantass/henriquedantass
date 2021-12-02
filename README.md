@@ -2,7 +2,7 @@
 [![Portfolio Badge](https://img.shields.io/badge/Website-henriquedantassblack)](https://henriquedantass.vercel.app/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-henrique-261631200/)](https://www.linkedin.com/in/paulo-henrique-261631200/) 
 
-Sou apaixonado por games e tecnologia. Tenho 21 anos e estudo Ciências da Computação na UEPB. Iniciei meus estudos no desenvolvimento web em 2020 e durante esse tempo comecei a desenvolver minhas primeiras aplicações como freelancer. Atualmente estou trabalhando como front-end developer júnior na Yazo no desenvolvimento de uma plataforma para eventos online. No entanto, a maior parte de minha experiência foi atuando como freelancer. Um dos meus objetivos principais é contribuir com tecnologia para um mundo melhor. 
+I'm passionate about games and technology. I am 21 years old and I study Computer Science at UEPB. I started my studies in web development in 2020 and during that time I developed my first applications as a freelancer. I'm currently working as a junior front-end developer at Yazo developing a platform for online events. However, most of my experience has been working as a freelancer. One of my main goals is to contribute technology to a better world
 
 **Languages and Tools 🚀**
 
