@@ -1,4 +1,4 @@
-## Olá, eu sou o Henrique!
+## HI, I am Henrique Araujo!
 [![Portfolio Badge](https://img.shields.io/badge/Website-henriquedantassblack)](https://henriquedantass.vercel.app/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-henrique-261631200/)](https://www.linkedin.com/in/paulo-henrique-261631200/) 
 
